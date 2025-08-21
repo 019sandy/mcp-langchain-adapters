@@ -1,4 +1,5 @@
 import asyncio
+
 from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("Weather") 
